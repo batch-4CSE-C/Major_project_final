@@ -1,4 +1,4 @@
-### Feature Extraction Functions Description
+### Feature Extraction Functions Description (features.py)
 
 ### Function: store_linear_regression_features
 Input: Chess games in PGN format (fics_202011_notime_50k.pgn).
